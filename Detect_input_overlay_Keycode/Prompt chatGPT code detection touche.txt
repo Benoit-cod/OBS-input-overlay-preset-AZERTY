@@ -1,0 +1,514 @@
+Prompt ChatGPT:
+
+Génére moi un fichier .txt de la suite de button3584 jusqu'à button3839 du code: {
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button0",
+			"z_level": 0,
+			"mapping": [
+				5,
+				5,
+				37,
+				18
+			],
+			"code": 0
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button1",
+			"z_level": 0,
+			"mapping": [
+				5,
+				47,
+				37,
+				18
+			],
+			"code": 1
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button2",
+			"z_level": 0,
+			"mapping": [
+				5,
+				89,
+				37,
+				18
+			],
+			"code": 2
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button3",
+			"z_level": 0,
+			"mapping": [
+				5,
+				131,
+				37,
+				18
+			],
+			"code": 3
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button4",
+			"z_level": 0,
+			"mapping": [
+				5,
+				173,
+				37,
+				18
+			],
+			"code": 4
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button5",
+			"z_level": 0,
+			"mapping": [
+				5,
+				215,
+				37,
+				18
+			],
+			"code": 5
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button6",
+			"z_level": 0,
+			"mapping": [
+				5,
+				257,
+				37,
+				18
+			],
+			"code": 6
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button7",
+			"z_level": 0,
+			"mapping": [
+				5,
+				299,
+				37,
+				18
+			],
+			"code": 7
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button8",
+			"z_level": 0,
+			"mapping": [
+				5,
+				341,
+				37,
+				18
+			],
+			"code": 8
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button9",
+			"z_level": 0,
+			"mapping": [
+				5,
+				383,
+				37,
+				18
+			],
+			"code": 9
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button10",
+			"z_level": 0,
+			"mapping": [
+				45,
+				5,
+				37,
+				18
+			],
+			"code": 10
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button11",
+			"z_level": 0,
+			"mapping": [
+				45,
+				47,
+				37,
+				18
+			],
+			"code": 11
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button12",
+			"z_level": 0,
+			"mapping": [
+				45,
+				89,
+				37,
+				18
+			],
+			"code": 12
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button13",
+			"z_level": 0,
+			"mapping": [
+				45,
+				131,
+				37,
+				18
+			],
+			"code": 13
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button14",
+			"z_level": 0,
+			"mapping": [
+				45,
+				173,
+				37,
+				18
+			],
+			"code": 14
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button15",
+			"z_level": 0,
+			"mapping": [
+				45,
+				215,
+				37,
+				18
+			],
+			"code": 15
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button16",
+			"z_level": 0,
+			"mapping": [
+				45,
+				257,
+				37,
+				18
+			],
+			"code": 16
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button17",
+			"z_level": 0,
+			"mapping": [
+				45,
+				299,
+				37,
+				18
+			],
+			"code": 17
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button18",
+			"z_level": 0,
+			"mapping": [
+				45,
+				341,
+				37,
+				18
+			],
+			"code": 18
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button19",
+			"z_level": 0,
+			"mapping": [
+				45,
+				383,
+				37,
+				18
+			],
+			"code": 19
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button20",
+			"z_level": 0,
+			"mapping": [
+				85,
+				5,
+				37,
+				18
+			],
+			"code": 20
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button21",
+			"z_level": 0,
+			"mapping": [
+				85,
+				47,
+				37,
+				18
+			],
+			"code": 21
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button22",
+			"z_level": 0,
+			"mapping": [
+				85,
+				89,
+				37,
+				18
+			],
+			"code": 22
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button23",
+			"z_level": 0,
+			"mapping": [
+				85,
+				131,
+				37,
+				18
+			],
+			"code": 23
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button24",
+			"z_level": 0,
+			"mapping": [
+				85,
+				173,
+				37,
+				18
+			],
+			"code": 24
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button25",
+			"z_level": 0,
+			"mapping": [
+				85,
+				215,
+				37,
+				18
+			],
+			"code": 25
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button26",
+			"z_level": 0,
+			"mapping": [
+				85,
+				257,
+				37,
+				18
+			],
+			"code": 26
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button27",
+			"z_level": 0,
+			"mapping": [
+				85,
+				299,
+				37,
+				18
+			],
+			"code": 27
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button28",
+			"z_level": 0,
+			"mapping": [
+				85,
+				341,
+				37,
+				18
+			],
+			"code": 28
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button29",
+			"z_level": 0,
+			"mapping": [
+				85,
+				383,
+				37,
+				18
+			],
+			"code": 29
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button30",
+			"z_level": 0,
+			"mapping": [
+				125,
+				5,
+				37,
+				18
+			],
+			"code": 30
+		},
+		{
+			"type": 1,
+			"pos": [
+				0,
+				0
+			],
+			"id": "keyboard button31",
+			"z_level": 0,
+			"mapping": [
+				125,
+				47,
+				37,
+				18
+			],
+			"code": 31
+		},
